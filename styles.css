@@ -59,6 +59,17 @@ button {
     border-radius: 5px; /* Set border-radius for a clean look */
 }
 
+/* Footer styling */
+footer {
+    margin-top: 20px; /* Add margin at the top for spacing */
+    padding: 20px; /* Apply padding */
+    background-color: #000000; /* Set background color to #000000 (Black) */
+    border-radius: 5px; /* Add a border radius for a rounded appearance */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Apply a box shadow for a subtle effect */
+    text-align: center; /* Center align text */
+    color: #fff; /* Set text color to #fff (White) */
+}
+
 
 
 
