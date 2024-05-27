@@ -1,3 +1,4 @@
+/* Body Styles */
 body {
     font-family: Arial, Helvetica, sans-serif; /* Set the font-family to 'Arial', sans-serif */
     background: #d4d0d0; /* Apply a background color of #d4d0d0 */
@@ -6,6 +7,7 @@ body {
     padding: 0; /* Remove default padding from the body */
 }
 
+/* Header Styles */
 header {
     background: #d10000; /* Set the header background color to #d10000 (Red) */
     color: #ffffff; /* Change the text color to #ffffff (White) */
@@ -13,10 +15,19 @@ header {
     padding: 20px; /* Add padding of 20px */
 }
 
+/* Section Styles */
 section {
     margin: 20px auto; /* Add margin of 20px on top and bottom and center the section horizontally */ 
     padding: 20px; /* Apply padding of 20px */
     background-color: #fff; /* Set the background color to #fff */
     border-radius: 5px; /* Add a border radius of 5px */
 }
+
+/* Heading Styles */
+h2 {
+    color: #4CAF50; /* Set the color of h2 headings to #4CAF50 (Green) */
+    text-align: center; /* Center align the text */
+}
+
+
 
