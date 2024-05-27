@@ -37,3 +37,13 @@ h2 {
     border: 1px solid #ddd; /* Add a border of 1px solid #ddd */
     border-radius: 5px; /* Apply a border-radius of 5px */
 }
+
+/* Product image styling */
+.product img {
+    max-width: 100%; /* Ensure product images are with max-width: 100% */
+    height: auto; /* Ensure product images maintain aspect ratio */
+    border-radius: 5px; /* Add a border-radius of 5px */
+}
+
+
+
