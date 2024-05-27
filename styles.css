@@ -29,5 +29,11 @@ h2 {
     text-align: center; /* Center align the text */
 }
 
-
-
+/* Product styling */
+.product {
+    margin: 0 auto; /* Center the product horizontally by adding margin to the left and right */
+    padding: 10px; /* Apply padding of 10px */
+    max-width: 600px; /* Set a maximum width of 600px */
+    border: 1px solid #ddd; /* Add a border of 1px solid #ddd */
+    border-radius: 5px; /* Apply a border-radius of 5px */
+}
