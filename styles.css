@@ -31,7 +31,7 @@ h2 {
 
 /* Product styling */
 .product {
-    margin: 0 auto; /* Center the product horizontally by adding margin to the left and right */
+    margin: 30px auto; /* Center the product horizontally by adding margin to the left and right */
     padding: 10px; /* Apply padding of 10px */
     max-width: 600px; /* Set a maximum width of 600px */
     border: 1px solid #ddd; /* Add a border of 1px solid #ddd */
