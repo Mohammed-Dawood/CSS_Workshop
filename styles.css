@@ -13,5 +13,10 @@ header {
     padding: 20px; /* Add padding of 20px */
 }
 
-
+section {
+    margin: 20px auto; /* Add margin of 20px on top and bottom and center the section horizontally */ 
+    padding: 20px; /* Apply padding of 20px */
+    background-color: #fff; /* Set the background color to #fff */
+    border-radius: 5px; /* Add a border radius of 5px */
+}
 
