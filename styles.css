@@ -1,14 +1,17 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background: #d4d0d0;
-    color: #333;
-    margin: 0;
-    padding: 0;
+    font-family: Arial, Helvetica, sans-serif; /* Set the font-family to 'Arial', sans-serif */
+    background: #d4d0d0; /* Apply a background color of #d4d0d0 */
+    color: #333; /* Set the text color to #333 */
+    margin: 0; /* Remove default margin from the body */
+    padding: 0; /* Remove default padding from the body */
 }
 
 header {
-    background: #d10000;
-    color: #ffffff;
-    text-align: center;
-    padding: 20px;
+    background: #d10000; /* Set the header background color to #d10000 (Red) */
+    color: #ffffff; /* Change the text color to #ffffff (White) */
+    text-align: center; /* Center align the text */
+    padding: 20px; /* Add padding of 20px */
 }
+
+
+
