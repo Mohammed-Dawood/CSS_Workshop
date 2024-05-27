@@ -50,6 +50,16 @@ h2 {
     margin-bottom: 10px; /* Add margin at the bottom for spacing */
 }
 
+/* Button styling */
+button {
+    background-color: #4CAF50; /* Set background color to #4CAF50 (Green) */
+    color: #fff; /* Set text color to #fff (White) */
+    padding: 10px 15px; /* Add padding */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Set border-radius for a clean look */
+}
+
+
 
 
 
