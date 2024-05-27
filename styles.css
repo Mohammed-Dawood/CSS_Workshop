@@ -45,5 +45,11 @@ h2 {
     border-radius: 5px; /* Add a border-radius of 5px */
 }
 
+/* Email field styling */
+.email-field {
+    margin-bottom: 10px; /* Add margin at the bottom for spacing */
+}
+
+
 
 
